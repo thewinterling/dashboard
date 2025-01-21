@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+.venv
+notebooks/.ipynb_checkpoints/
